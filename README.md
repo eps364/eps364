@@ -12,9 +12,11 @@
 <footer>
 - 📫 How to reach me:
 
-[<img src="assets/linkedin.svg" width="34px" height="34px"/>](https://www.linkedin.com/in/emerson-silva-b266b840) 
+[<img src="assets/linkedin.svg" width="34px" height="34px"/>](https://www.linkedin.com/in/eps364 
 [<img src="assets/gmail.svg" 
 width="34px" height="34px" >](mailto://pereiradasilva.emerson@gmail.com?subject=Contact-GitHub)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="eps364"><a class="LI-simple-link" href='https://br.linkedin.com/in/eps364?trk=profile-badge'>Emerson Silva</a></div>
 
 </footer>
 
