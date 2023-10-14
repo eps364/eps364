@@ -167,6 +167,17 @@ footer {
   font-size: 14px;
 }
 
+#techs {
+  margin: 24px 0;
+  align-items: center;
+  justify-content: center;
+}
+
+#techs div {
+  padding: 24px;
+  margin: 24px 0;
+}
+
 /* media queries */
 @media (min-width: 700px) {
   :root {
